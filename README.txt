@@ -1,14 +1,29 @@
-1)Ryan King
-2385162
-Ryanking@chapman.edu
-CPSC-350-02
-Programming Assignment 2: Not So Super Mario Bros
-2) Files Submitted: main.cpp, FileProcessor.cpp, FileProcessor.h, Level.cpp, Level.h, Mario.cpp, 
-Mario.h, ArgTest.txt, TestingLog.txt
-3) NA
-* Websites used for references:
+# Super Mario Simulation
+T
+## Identifying Information
+* Name: Ryan King
+* Email: ryanhking9@gmail.com
+* Course: CPSC 350 Data Structures & Algorithms
+
+## Source Files
+* main.cpp
+* FileProcessor.cpp
+* FileProcessor.h
+* Level.cpp
+* Level.h
+* Mario.cpp
+* Mario.h
+* ArgTest.txt
+* TestingLog.txt
+
+## Build and Run Commands
+* g++ Level.cpp Mario.cpp World.cpp fileProcessor.cpp  main.cpp -o main
+./Main ArgTest.txt TestingLog.txt
+
+## References
 * Used digitalocean.com for references on multi dimensional arrays in c++
 * Used c++.com to figure out how to use format strings, but did not end up using them
 * Used Stack Overflow for additional reference on multi dimensional arrays
-4) g++ Level.cpp Mario.cpp World.cpp fileProcessor.cpp  main.cpp -o main
-./Main ArgTest.txt TestingLog.txt
+
+## Known Errors
+* N/A
