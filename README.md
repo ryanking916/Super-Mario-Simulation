@@ -1,4 +1,5 @@
 # Super Mario Simulation
+This project simulates a Super Mario game. The game world consists of a fixed number of levels given at runtime. Mario can interact with the environment by collecting coins and fighting enemies. Input from a file is taken and then the simulation runs.
 
 ## Identifying Information
 * Name: Ryan King
