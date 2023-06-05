@@ -19,7 +19,7 @@ This project simulates a Super Mario game. The game world consists of a fixed nu
 
 ## Build and Run Commands
 * g++ Level.cpp Mario.cpp World.cpp fileProcessor.cpp  main.cpp -o main
-./Main ArgTest.txt TestingLog.txt
+* ./Main ArgTest.txt TestingLog.txt
 
 ## References
 * Used digitalocean.com for references on multi dimensional arrays in c++
